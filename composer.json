@@ -1,0 +1,11 @@
+{
+    "name": "monteshot/phpmd-magento",
+    "type": "library",
+    "authors": [
+        {
+            "name": "monteshot",
+            "email": "faqreg@gmail.com"
+        }
+    ],
+    "require": {}
+}
