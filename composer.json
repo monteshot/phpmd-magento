@@ -2,7 +2,7 @@
     "name": "monteshot/phpmd-magento",
     "type": "library",
     "minimum-stability": "stable",
-    "authors": {
+    "authors": [
         {  
             "name": "Jakub Cegiełka",
         },
