@@ -4,11 +4,11 @@
     "minimum-stability": "stable",
     "authors": [
         {  
-            "name": "Jakub Cegiełka",
+            "name": "Jakub Cegiełka"
         },
         {
             "name": "monteshot",
-            "email": "faqreg@gmail.com",
+            "email": "faqreg@gmail.com"
         }
     ],
     "require": {}
